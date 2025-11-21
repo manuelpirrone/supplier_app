@@ -206,7 +206,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         TextButton(
                           onPressed: _navigateToSignUp,
                           style: AppButtonStyles.textButton.copyWith(
-                            padding: MaterialStateProperty.all(
+                            padding: WidgetStateProperty.all(
                               const EdgeInsets.symmetric(
                                 horizontal: AppSpacing.paddingXs,
                                 vertical: AppSpacing.paddingXs,

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../design/design_system.dart';
-import '../widgets/app_loader.dart';
 import 'signup_screen.dart';
 
 /// Login screen for the Supplier App

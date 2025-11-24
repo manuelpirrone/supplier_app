@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../design/design_system.dart';
-import '../widgets/app_loader.dart';
 
 /// Sign up screen for the Supplier App
 /// Allows new users to create an account with form validation
